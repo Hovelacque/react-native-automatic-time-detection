@@ -1,6 +1,6 @@
 {
   "name": "react-native-automatic-time-detection",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A React Native package that checks if the automatic time is enabled",
   "react-native": "js/index",
   "source": "js/index",
